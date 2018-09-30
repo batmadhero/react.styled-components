@@ -1,7 +1,7 @@
 {
-  "name": "karma",
+  "name": "react.styled-components",
   "version": "1.0.0",
-  "description": "",
+  "description": "React + Styled-Components boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crowemr/karma.git"
+    "url": "git+https://github.com/batmadhero/react.styled-components.git"
   },
   "author": "crowemr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crowemr/karma/issues"
+    "url": "https://github.com/batmadhero/react.styled-components.git/issues"
   },
-  "homepage": "https://github.com/crowemr/karma#readme",
+  "homepage": "https://github.com/batmadhero/react.styled-components.git#readme",
   "dependencies": {
     "react": "16.4.1",
     "react-dom": "16.4.1",
