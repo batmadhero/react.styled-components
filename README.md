@@ -9,8 +9,8 @@
 
 <strong>Additional commands:</strong>
 <ul>
-    <li><i>npm run web:dev - development</i></li>   
-    <li><i>npm run web:prod - production</i></li>   
+    <li><i>npm run web:dev</i> - development</li>   
+    <li><i>npm run web:prod</i> - production</li>   
 </ul>
 
 All errors drop into the console :)
