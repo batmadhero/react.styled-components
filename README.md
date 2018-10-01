@@ -4,7 +4,7 @@
 <ul>
     <li><i>git clone https://github.com/batmadhero/react.styled-components.git</i></li>   
     <li><i>npm i</i></li>   
-    <li><i>npm start - project will be avaliable on `http://localhost:9000/</i></li>
+    <li><i>npm start</i> - project will be avaliable on `http://localhost:9000/</li>
 </ul>
 
 <strong>Additional commands:</strong>
