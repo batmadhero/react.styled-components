@@ -2,15 +2,15 @@
 <br>
 <strong>Start:</strong>
 <ul>
-    <li>`git clone https://github.com/batmadhero/react.styled-components.git`</li>   
-    <li>`npm i`</li>   
-    <li>`npm start` - project will be avaliable on `http://localhost:9000/`</li>
+    <li><i>git clone https://github.com/batmadhero/react.styled-components.git</i></li>   
+    <li><i>npm i</i></li>   
+    <li><i>npm start - project will be avaliable on `http://localhost:9000/</i></li>
 </ul>
 
 <strong>Additional commands:</strong>
 <ul>
-    <li>`npm run web:dev` - development</li>   
-    <li>`npm run web:prod` - production</li>   
+    <li><i>npm run web:dev - development</i></li>   
+    <li><i>npm run web:prod - production</i></li>   
 </ul>
 
 All errors drop into the console :)
