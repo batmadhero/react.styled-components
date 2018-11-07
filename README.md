@@ -3,11 +3,10 @@
 <strong>Start:</strong>
 <ul>
     <li><i>git clone https://github.com/batmadhero/react.styled-components.git</i></li>   
-    <li><i>npm i</i></li>   
-    <li><i>npm start</i> - project will be avaliable on `http://localhost:9000/</li>
+    <li><i>npm i</i></li>
 </ul>
 
-<strong>Additional commands:</strong>
+<strong>Commands:</strong>
 <ul>
     <li><i>npm run web:dev</i> - development</li>   
     <li><i>npm run web:prod</i> - production</li>   
